@@ -20,9 +20,5 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rowlptk&theme=blue-green)
 --------------------------------------------------------------------
-## 3. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
---------------------------------------------------------------------
-## 4. Profile View Counter
+## 3. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
