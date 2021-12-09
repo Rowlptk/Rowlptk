@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true)
 --------------------------------------------------------------------
-## 2. Profile View Counter
+## Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
+--------------------------------------------------------------------
+## 
+[![HitCount](http://hits.dwyl.com/{rowlptk}/{OS_and_Virtualization}.svg)](http://hits.dwyl.com/{username}/{project-name})
