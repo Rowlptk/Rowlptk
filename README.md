@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true)
 --------------------------------------------------------------------
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rowlptk&theme=blue-green)
---------------------------------------------------------------------
-## 3. Profile View Counter
+## 2. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
