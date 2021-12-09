@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 ## Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
 --------------------------------------------------------------------
-## HIT
-[![HitCount](http://hits.dwyl.com/rowlptk/OS_and_Virtualization.svg?style=flat-square)](http://hits.dwyl.com/rowlptk/OS_and_Virtualization)
