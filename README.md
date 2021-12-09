@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+-->
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true)
 --------------------------------------------------------------------
@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 --------------------------------------------------------------------
 ## 4. Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=rowlptk"/>
-### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/rowlptk)                 
+<img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
