@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true&theme=dark)
 --------------------------------------------------------------------
 ## Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
---------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=rowlptk"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowlptk&layout=compact&theme=dark)](https://github.com/rowlptk/github-readme-stats)
+
