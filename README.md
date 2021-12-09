@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=rowlptk"/>                 
 --------------------------------------------------------------------
 ## 
-[![HitCount](http://hits.dwyl.com/{rowlptk}/{OS_and_Virtualization}.svg)](http://hits.dwyl.com/{username}/{project-name})
+[![HitCount](http://hits.dwyl.com/rowlptk/OS_and_Virtualization.svg)](http://hits.dwyl.com/rowlptk/OS_and_Virtualization)
