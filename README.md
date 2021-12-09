@@ -13,5 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frowlptk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+--># Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rowlptk&show_icons=true)
+--------------------------------------------------------------------
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rowlptk&theme=blue-green)
+--------------------------------------------------------------------
+## 3. Random Joke Generator
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+--------------------------------------------------------------------
+## 4. Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=rowlptk"/>
+### HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/rowlptk)                 
